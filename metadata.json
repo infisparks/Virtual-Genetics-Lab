@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Genetics Lab: Mendelian Inheritance",
+  "description": "A 3D interactive virtual laboratory for B.Sc. Zoology students to learn Mendelian Genetics, Monohybrid crosses, and Punnett Squares through simulation.",
+  "requestFramePermissions": []
+}
